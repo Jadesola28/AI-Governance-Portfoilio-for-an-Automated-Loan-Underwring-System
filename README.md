@@ -1,6 +1,4 @@
-# AI Governance Portfolio for an Automated Loan Underwring System
-AI Governance Portfolio for an Automated Loan Underwring System
-# Cyber Pros AI Governance Portfolio Project: Automated Loan Underwriting System (Your Name)
+# Cyber Pros AI Governance Portfolio Project: Automated Loan Underwriting System (Oyinjadesola)
 
 ## Executive Summary
 
@@ -209,4 +207,6 @@ This project reflects how I would support responsible AI deployment in a real or
 ## Disclaimer
 
 This is a fictional educational portfolio project created for AI governance, risk, and compliance training. It does not represent legal advice, regulatory certification, credit decisioning advice, or an actual assessment of a real financial institution.
+
+
 

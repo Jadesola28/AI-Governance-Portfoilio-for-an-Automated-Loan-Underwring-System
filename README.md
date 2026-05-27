@@ -63,11 +63,11 @@ My answer:
 
 | Artifact | Purpose | Link |
 |---|---|---|
-| AI System Profile and Intake Record | Documents system purpose, users, affected groups, data, vendor, and risk classification. | [View Artifact](https://docs.google.com/document/d/1q2iMEMb-7Xek2lmECq1-DQT5rDRCi_MlFYTwL2Jb5Ig/edit?usp=drive_link) |
-| AI Risk Register and Mitigation Summary | Documents key AI risks, severity, controls, residual risk, and recommendations. | [View Artifact](https://docs.google.com/document/d/1PPeg_nKr-xfuAuxdIFQvRu8r0F2wEdDUUjADJ7biQds/edit?usp=sharing) |
-| Human Oversight and Appeal Procedure | Defines human review triggers, override authority, escalation, and applicant appeal process. | [View Artifact](https://docs.google.com/document/d/14L_cdmdn3WDQU4OAkmWXmSriK4wWIMFxztZ-IMBISiA/edit?usp=sharing) |
+| AI System Profile and Intake Record | Documents system purpose, users, affected groups, data, vendor, and risk classification. | [https://docs.google.com/document/d/1Fh7jBoPHAk6D2VEag0m_5j23iZwDOpj7/edit?usp=drive_link&ouid=102263373024491461898&rtpof=true&sd=true) |
+| AI Risk Register and Mitigation Summary | Documents key AI risks, severity, controls, residual risk, and recommendations. | [https://docs.google.com/document/d/19dRq6mi-91gGwLP8BfHRexcBDTIGeMH0/edit?usp=drive_link&ouid=102263373024491461898&rtpof=true&sd=true) |
+| Human Oversight and Appeal Procedure | Defines human review triggers, override authority, escalation, and applicant appeal process. | [https://docs.google.com/document/d/19dRq6mi-91gGwLP8BfHRexcBDTIGeMH0/edit?usp=drive_link&ouid=102263373024491461898&rtpof=true&sd=true) |
 | Third-Party Vendor and Model Review | Evaluates CrediSure AI vendor risk, model limitations, and required evidence. | [View Artifact](https://docs.google.com/document/d/1TYN4Fqt-V4wIM-49nuRXjgFhkwQMIFHk/edit?usp=drive_link&ouid=102263373024491461898&rtpof=true&sd=true) |
-| Production Readiness Decision Memo | Provides final executive recommendation. | [View Artifact](https://docs.google.com/document/d/1n6fIW4xsy8nhBQPPLpI4zdDttjGDRojv0N6MzQdUku8/edit?usp=sharing) |
+| Production Readiness Decision Memo | Provides final executive recommendation. | [https://docs.google.com/document/d/1kNpO3BWjhew3hKENoimXphtVmNqXxJNB/edit?usp=drive_link&ouid=102263373024491461898&rtpof=true&sd=true) |
 | Final VerifyWise Portfolio Report | Consolidated portfolio report generated from VerifyWise. | [View Report](https://drive.google.com/file/d/1eN26gCzbvlTUXNyT1W1nhECPlyotqaj9/view?usp=sharing) |
 
 ---

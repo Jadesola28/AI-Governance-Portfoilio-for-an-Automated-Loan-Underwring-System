@@ -87,8 +87,8 @@ My answer:
 
 ### 2. Model Inventory
 
-<img width="824" height="746" alt="3  Add the Model to Model Inventory " src="https://github.com/user-attachments/assets/f07225c1-6cc8-4cea-bcd0-3c1bfe24ae93" />
-
+<img width="1090" height="552" alt="image" src="https://github.com/user-attachments/assets/79df497d-6509-4439-9de4-465f6d29dca1" />
+<img width="1110" height="464" alt="image" src="https://github.com/user-attachments/assets/858fbdf9-eff4-47fb-9dbd-05f5404c64cc" />
 > **Caption:** This screenshot shows the CrediSure Credit Decision Engine v2.3 documented in the model inventory.
 
 **Skill demonstrated:** Model inventory documentation, model limitation tracking, and third-party AI model governance.
@@ -97,7 +97,9 @@ My answer:
 
 ### 3. Dataset Record
 
-<img width="827" height="817" alt="4  Datasets" src="https://github.com/user-attachments/assets/ac514020-1a62-43f5-8b8a-9860a1a03080" />
+<img width="957" height="589" alt="image" src="https://github.com/user-attachments/assets/6d874e05-cbc5-4f08-9794-e7426dfa0b96" />
+<img width="1128" height="497" alt="image" src="https://github.com/user-attachments/assets/95edb2ed-b9b8-4c88-964a-f656012e80ba" />
+<img width="1112" height="408" alt="image" src="https://github.com/user-attachments/assets/f12c5d50-36b6-4985-b9e1-1cef391eb036" />
 
 > **Caption:** This screenshot shows the Small Business Loan Underwriting Dataset documented with data purpose, source, PII status, known bias concerns, and mitigation approach.
 
@@ -107,9 +109,9 @@ My answer:
 
 ### 4. AI Risk Register
 
-<img width="1522" height="865" alt="5  Risk register" src="https://github.com/user-attachments/assets/649f77f7-4d6d-4201-9219-7314a65b3954" /> 
+<img width="1391" height="830" alt="image" src="https://github.com/user-attachments/assets/f2f3a092-f72d-44d7-939b-9b337130fc56" />
 
-> **Caption:** This screenshot shows the six priority AI risks documented for the Meridian Automated Loan Underwriting System.
+> **Caption:** This screenshot shows the six required risks for the Meridian Automated Loan Underwriting System, including risks imported from IBM AI Risk Database, MIT AI Risk Repository, and manually created custom risks.
 
 **Skill demonstrated:** AI risk identification, risk rating, mitigation planning, residual risk analysis, and approval workflow documentation.
 
@@ -127,10 +129,11 @@ My answer:
 ---
 
 ### 5. Vendor Record
+<img width="1066" height="554" alt="image" src="https://github.com/user-attachments/assets/dfa23f53-6bf9-4550-855a-83bd479ab9dc" />
+<img width="1061" height="461" alt="image" src="https://github.com/user-attachments/assets/60fbadb4-f0d3-419a-a9d7-ebb8c0b95777" />
+<img width="1082" height="213" alt="image" src="https://github.com/user-attachments/assets/26a80fb0-8500-4e26-ab20-87c6ee24921d" />
 
-<img width="799" height="714" alt="7  Vendor List " src="https://github.com/user-attachments/assets/0ffb06b0-6843-47c2-8dda-c6b992d03e3e" />
-
-> **Caption:** This screenshot shows the CrediSure AI vendor record documenting the third-party provider responsible for the credit decisioning model.
+> **Caption:** This screenshot shows the CrediSure AI vendor record in VerifyWise, documenting the third-party provider responsible for the credit decisioning model used by the Meridian Automated Loan Underwriting System.
 
 **Skill demonstrated:** Third-party AI vendor risk management and vendor governance documentation.
 

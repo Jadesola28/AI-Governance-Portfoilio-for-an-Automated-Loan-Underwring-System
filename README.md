@@ -18,7 +18,7 @@ My final recommendation was:
 
 <img width="1393" height="819" alt="image" src="https://github.com/user-attachments/assets/89acfe08-cb9b-4e1d-9164-b64cbf0df375" />
 
-> **Caption:** This screenshot shows the EU AI Act FRIA summary for the Meridian Automated Loan Underwriting System, including stakeholder consultation status, flagged rights, risk score, and conditional approval recommendation. 
+> **Caption:** This screenshot shows the EU AI Act FRIA summary for the Meridian Automated Loan Underwriting System, including stakeholder consultation status, flagged rights, risk score, and conditional approval recommendation.
 
 ## Frameworks Applied
 
@@ -79,7 +79,7 @@ My answer:
 <img width="1299" height="570" alt="image" src="https://github.com/user-attachments/assets/c54679c5-8fe9-4aca-8f48-4e68779aad47" />
 <img width="1317" height="567" alt="image" src="https://github.com/user-attachments/assets/c3bf126b-b92b-4b3a-8082-537364d9bc2d" />
 
-> **Caption:** This screenshot shows the Meridian Automated Loan Underwriting System registered as a high-risk AI use case in VerifyWise.
+> **Caption:** This screenshot shows the Meridian Automated Loan Underwriting System registered as a high-risk AI use case in VerifyWise, with applicable frameworks, approval workflow, and pre-production governance status.
 
 **Skill demonstrated:** AI use case intake, risk classification, and governance workflow setup.
 
@@ -101,7 +101,7 @@ My answer:
 <img width="1128" height="497" alt="image" src="https://github.com/user-attachments/assets/95edb2ed-b9b8-4c88-964a-f656012e80ba" />
 <img width="1112" height="408" alt="image" src="https://github.com/user-attachments/assets/f12c5d50-36b6-4985-b9e1-1cef391eb036" />
 
-> **Caption:** This screenshot shows the Small Business Loan Underwriting Dataset documented with data purpose, source, PII status, known bias concerns, and mitigation approach.
+> **Caption:** This screenshot shows the Small Business Loan Underwriting Dataset registered in VerifyWise, including data purpose, source, format, PII status, known bias concerns, mitigation approach, and connection to the CrediSure Credit Decision Engine and Meridian Automated Loan Underwriting System.
 
 **Skill demonstrated:** Dataset governance, PII awareness, data source documentation, and bias mitigation planning.
 

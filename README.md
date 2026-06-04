@@ -141,10 +141,11 @@ My answer:
 
 ### 6. Framework Assessments
 
-<img width="1505" height="835" alt="ISO 42001 Part 1" src="https://github.com/user-attachments/assets/dc5ac0f7-da16-4fe9-ac50-e86fc03be3b5" /> 
-<img width="1527" height="941" alt="ISO 42001 Part 2" src="https://github.com/user-attachments/assets/a6a6660a-df92-499f-9d10-b0a29d8da48b" />
+<img width="1380" height="686" alt="image" src="https://github.com/user-attachments/assets/3c145082-42ea-47b6-baa3-8955f96117e3" />
+<img width="935" height="538" alt="image" src="https://github.com/user-attachments/assets/18ca5dd2-82bb-457e-aed6-13e693c4864b" />
+<img width="923" height="471" alt="image" src="https://github.com/user-attachments/assets/96accd4f-914c-43c9-a524-5f825c6866da" />
 
-> **Caption:** This screenshot shows selected framework assessment progress for NIST AI RMF, ISO/IEC 42001, and EU AI Act governance requirements.
+> **Caption:** This screenshot shows the three must-have ISO 42001 Annex controls completed for the Meridian Automated Loan Underwriting System: AI governance framework, AI system lifecycle management, and third-party AI risk management.
 
 **Skill demonstrated:** Practical framework application and evidence-based AI governance assessment.
 
@@ -154,7 +155,7 @@ My answer:
 
 <img width="1531" height="823" alt="10  The EU AI Act Assessment" src="https://github.com/user-attachments/assets/03001655-4ef1-4ad8-a86a-5080bfc145fc" />
 
-> **Caption:** This screenshot shows the EU AI Act Fundamental Rights Impact Assessment summary for the Meridian Automated Loan Underwriting System.
+> **Caption:** This screenshot shows the EU AI Act FRIA summary for the Meridian Automated Loan Underwriting System, including stakeholder consultation status, flagged rights, risk score, and conditional approval recommendation.
 
 **Skill demonstrated:** Fundamental rights risk assessment, high-risk AI review, human oversight analysis, and conditional deployment recommendation.
 

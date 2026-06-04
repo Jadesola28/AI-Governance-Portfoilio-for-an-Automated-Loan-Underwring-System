@@ -140,7 +140,7 @@ My answer:
 ---
 
 ### 6. Framework Assessments
-<img width="1380" height="686" alt="image" src="https://github.com/user-attachments/assets/3c145082-42ea-47b6-baa3-8955f96117e3" />
+
 <img width="935" height="538" alt="image" src="https://github.com/user-attachments/assets/18ca5dd2-82bb-457e-aed6-13e693c4864b" />
 <img width="923" height="471" alt="image" src="https://github.com/user-attachments/assets/96accd4f-914c-43c9-a524-5f825c6866da" />
 

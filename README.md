@@ -1,4 +1,4 @@
-# Cyber Pros AI Governance Portfolio Project: Automated Loan Underwriting System (Oyinjadesola)
+# Cyber Pros AI Governance Portfolio Project: Automated Loan Underwriting System Oyinjadesola
 
 ## Executive Summary 
 

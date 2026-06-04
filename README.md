@@ -68,7 +68,7 @@ My answer:
 | Human Oversight and Appeal Procedure | Defines human review triggers, override authority, escalation, and applicant appeal process. | [View Artifact](https://docs.google.com/document/d/14L_cdmdn3WDQU4OAkmWXmSriK4wWIMFxztZ-IMBISiA/edit?usp=sharing) 
 | Third-Party Vendor and Model Review | Evaluates CrediSure AI vendor risk, model limitations, and required evidence. | [View Artifact](https://docs.google.com/document/d/1TYN4Fqt-V4wIM-49nuRXjgFhkwQMIFHk/edit?usp=drive_link&ouid=102263373024491461898&rtpof=true&sd=true) |
 | Production Readiness Decision Memo | Provides final executive recommendation. | [https://docs.google.com/document/d/1kNpO3BWjhew3hKENoimXphtVmNqXxJNB/edit?usp=drive_link&ouid=102263373024491461898&rtpof=true&sd=true) |
-| Final VerifyWise Portfolio Report | Consolidated portfolio report generated from VerifyWise. | [View Report](https://drive.google.com/file/d/1eN26gCzbvlTUXNyT1W1nhECPlyotqaj9/view?usp=sharing) |
+| Final VerifyWise Portfolio Report | Consolidated portfolio report generated from VerifyWise. | [View Report](https://drive.google.com/file/d/1yWzGE_EbCET1i_JVUYcLapzcjLcsZJf-/view?usp=drive_link) |
 
 ---
 

@@ -1,6 +1,6 @@
 # Cyber Pros AI Governance Portfolio Project: Automated Loan Underwriting System (Oyinjadesola)
 
-## Executive Summary
+## Executive Summary 
 
 I served as the **AI Governance Lead** for a fictional high-risk AI governance assessment involving Meridian Financial Services, a mid-sized financial services company piloting an automated loan underwriting system.
 
@@ -76,7 +76,10 @@ My answer:
 
 ### 1. Use Case Registration
 
-<img width="980" height="817" alt="2  Create the New Use Case" src="https://github.com/user-attachments/assets/859be89b-3c21-4694-ab9b-0dbbe16abc34" />
+<img width="1299" height="570" alt="image" src="https://github.com/user-attachments/assets/c54679c5-8fe9-4aca-8f48-4e68779aad47" />
+<img width="1326" height="662" alt="image" src="https://github.com/user-attachments/assets/5d64dfa9-22c0-4189-a2a6-025a0e09a904" />
+
+
 
 
 > **Caption:** This screenshot shows the Meridian Automated Loan Underwriting System registered as a high-risk AI use case in VerifyWise.

@@ -159,10 +159,7 @@ My answer:
 
 ### 8. Final Report
 [Oyinadesola Edu_AI_Governance_Portfolio_Report.pdf](https://drive.google.com/file/d/1LFsZV7faeO7aWlCF152LNCQQI1igOfqG/view?usp=drive_link)
-
-<img width="858" height="590" alt="image" src="https://github.com/user-attachments/assets/67c70b59-4f54-43f5-ade8-b6e73cf3780c" />
-
-<img width="858" height="590" alt="image" src="https://github.com/user-attachments/assets/67c70b59-4f54-43f5-ade8-b6e73cf3780c" />
+<img width="918" height="779" alt="image" src="https://github.com/user-attachments/assets/93607936-877a-4426-b352-660c7184ad74" />
 
 > **Caption:** This screenshot shows the final VerifyWise portfolio report generated for the Meridian Automated Loan Underwriting System.
 
